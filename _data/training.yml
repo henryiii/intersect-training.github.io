@@ -235,7 +235,7 @@
   location: PyHEP 2021
   location_url: https://indico.cern.ch/event/1019958/timetable/#3-powerful-python-packaging-fo
   date: 2021-07-08
-  description: This talk covers the the best practices of making a highly compatible and installable Python package based on the [Scikit-HEP developer guidelines](https://scikit-hep.org/developer) and scikit-hep/cookie. There is a strong focus on compiled extensions. The latest developments in key libraries, like pybind11, cibuildwheel, and build are covered, along with potential upcoming advancements in Scikit-Build + CMake.
+  description: This talk covers the the best practices of making a highly compatible and installable Python package based on the Scikit-HEP developer guidelines (https://scikit-hep.org/developer) and scikit-hep/cookie. There is a strong focus on compiled extensions. The latest developments in key libraries, like pybind11, cibuildwheel, and build are covered, along with potential upcoming advancements in Scikit-Build + CMake.
   tags: {Python, Packaging}
 - name: "Level Up Your Python"
   url: https://henryiii.github.io/level-up-your-python
